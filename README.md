@@ -24,3 +24,5 @@ Garantir que o resultado final do projeto fosse equivalente ao arquivo Git/Calcu
 ✅ Objetivo principal
 
 Aplicar na prática os conceitos de versionamento de código, colaboração em equipe e fluxo de trabalho com branches e merges dentro de um repositório GitHub.
+
+Tecnologias para internet I
